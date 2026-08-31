@@ -1,4 +1,4 @@
-# baostock-go
+[baostock](http://baostock.com) A 股金融数据接口的 Go 语言 SDK 实现，协议与 Python SDK 完全兼容。
 
 [baostock](http://baostock.com) A 股金融数据接口的 Go 语言实现，协议与 Python SDK 完全兼容。
 
