@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	baostock "github.com/example/baostock-go/baostock"
+	baostock "github.com/AhappyBuffalo/baostock-go/baostock"
 )
 
 func main() {

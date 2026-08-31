@@ -1,3 +1,3 @@
-module github.com/example/baostock-go
+module github.com/AhappyBuffalo/baostock-go
 
 go 1.24.4

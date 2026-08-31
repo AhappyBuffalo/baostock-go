@@ -3,8 +3,8 @@ package baostock
 import (
 	"time"
 
-	"github.com/example/baostock-go/internal/request"
-	rs "github.com/example/baostock-go/internal/result"
+	"github.com/AhappyBuffalo/baostock-go/internal/request"
+	rs "github.com/AhappyBuffalo/baostock-go/internal/result"
 )
 
 func (c *Client) QueryDividendData(code, year, yearType string) (*rs.ResultData, error) {

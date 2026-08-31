@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/example/baostock-go/internal/request"
-	rs "github.com/example/baostock-go/internal/result"
+	"github.com/AhappyBuffalo/baostock-go/internal/request"
+	rs "github.com/AhappyBuffalo/baostock-go/internal/result"
 )
 
 func (c *Client) QueryHistoryKDataPlus(code, fields, startDate, endDate, frequency, adjustFlag string) (*rs.ResultData, error) {

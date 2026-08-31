@@ -1,8 +1,8 @@
 package baostock
 
 import (
-	"github.com/example/baostock-go/internal/request"
-	rs "github.com/example/baostock-go/internal/result"
+	"github.com/AhappyBuffalo/baostock-go/internal/request"
+	rs "github.com/AhappyBuffalo/baostock-go/internal/result"
 )
 
 func (c *Client) QueryDepositRateData(startDate, endDate string) (*rs.ResultData, error) {

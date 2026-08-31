@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/example/baostock-go/internal/protocol"
-	"github.com/example/baostock-go/internal/result"
+	"github.com/AhappyBuffalo/baostock-go/internal/protocol"
+	"github.com/AhappyBuffalo/baostock-go/internal/result"
 )
 
 type Client struct {
